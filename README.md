@@ -1,4 +1,4 @@
-#RAMAS:
+## RAMAS:
 
 La Rama Novela es una rama creada para que poder hacer cambios y que se vuelquen en el main
 La Rama Teatro es otr rama para poder trabajar simultaneamente 
